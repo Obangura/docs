@@ -116,4 +116,5 @@ In some cases there may be a basis to reverse an action, for example, based on a
 
 We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-These are only guidelines; they do not modify our [Terms of Service](/articles/github-terms-of-service/) and are not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](/articles/github-terms-of-service/#c-acceptable-use) to remove any content or terminate any accounts for activity that violates our Terms on Acceptable Use. These guidelines describe when we will exercise that discretion.
+These are only guidelines; they do not modify our [Terms of Service](/articles/github-terms-of-service/) and are not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](/articles/github-terms-of-s![Web capture_10-8-2021_183526_www raritanval edu](https://user-images.githubusercontent.com/91734560/135616164-e3cca3ce-ae4b-4d0f-bb09-188f3f676708.jpeg)
+ervice/#c-acceptable-use) to remove any content or terminate any accounts for activity that violates our Terms on Acceptable Use. These guidelines describe when we will exercise that discretion.
